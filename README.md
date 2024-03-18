@@ -1,6 +1,4 @@
-# Calendly Front-End Clone
-
-I enjoyed scheduling an appointment using Calendly, so I decided to clone it!
+Boldcap internship assignment
 
 Users should be able to select a date, select a time-slot, and register for an appointment.
 
