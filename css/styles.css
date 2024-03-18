@@ -1,10 +1,10 @@
 body {
-  background-color: ghostwhite;
+  background-color: rgb(184, 184, 227);
   font-family: Lato;
 }
 
 h3 {
-  color: darkslategray;
+  color: rgb(59, 109, 109);
   margin-top: 0;
 }
 

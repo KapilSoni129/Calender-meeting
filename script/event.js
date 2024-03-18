@@ -1,11 +1,11 @@
 var event = {
-    name: "Pricing Review",
-    organizer: "ACME Sales",
-    duration: 15,
-    description: "Our team will meet with you to review pricing options.",
-    date: new Date(),
-    time: "9:00",
-    attendees: []
+  name: "Schedule a meeting",
+  organizer: "Boldcap",
+  duration: 30,
+  description: "Our team will meet with you for an interview.",
+  date: new Date(),
+  time: "9:00",
+  attendees: [],
 };
 
 sessionStorage.setItem("eventObj", JSON.stringify(event));
