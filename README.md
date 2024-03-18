@@ -5,3 +5,5 @@ Users should be able to select a date, select a time-slot, and register for an a
 I used FullCalendar to implement a calendar.
 
 I used sessionStorage to pass along the event details.
+
+https://calender-meeting.vercel.app/
